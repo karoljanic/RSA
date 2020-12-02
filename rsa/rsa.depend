@@ -1,0 +1,16 @@
+# depslib dependency file v1.0
+1606914717 source:c:\users\user\desktop\c ++\rsa\main.cpp
+	<iostream>
+	<random>
+	<time.h>
+	<RSA.h>
+
+1606919633 c:\users\user\desktop\c ++\rsa\include\rsa.h
+	<iostream>
+
+1606914710 source:c:\users\user\desktop\c ++\rsa\src\rsa.cpp
+	"RSA.h"
+	<random>
+	<time.h>
+	<iostream>
+
